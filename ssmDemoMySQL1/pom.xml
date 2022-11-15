@@ -13,7 +13,7 @@
     <druid.version>1.1.20</druid.version>
     <mybatis.version>3.5.3</mybatis.version>
     <mybatis-spring.version>2.0.3</mybatis-spring.version>
-    <jackson.version>2.10.0</jackson.version>
+    <jackson.version>2.12.7.1</jackson.version>
     <log4j.version>2.12.1</log4j.version>
     <mysql.version>5.1.48</mysql.version>
     <commons-fileupload.version>1.4</commons-fileupload.version>
